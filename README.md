@@ -1,4 +1,4 @@
-# 🌐 **Saucotech** – Ciência | Tecnologia |  Saúde
+# 🌐 **Saucotech** – Ciência |  Saúde | Tecnologia 
 
 ## 🚀 **Sobre nós**
 A Saucotech é uma empresa inovadora que atua na interseção entre tecnologia, ciência e saúde. Fundada com o propósito de transformar ideias em soluções reais, buscamos desenvolver projetos que promovam avanços significativos e impactem positivamente a sociedade.
@@ -33,14 +33,7 @@ Saúde Digital: Aplicação de tecnologias inovadoras para melhorar diagnóstico
 
 ---
 
-## 📂 **Principais Projetos**
-| 🚀 **Projeto**         | 📝 **Descrição**                                     | 🔗 **Link**               |
-|------------------------|----------------------------------------------------|---------------------------|
-| **TechSaúde**          | Plataforma de monitoramento de indicadores de saúde | [🔗 Saiba mais](#)        |
-| **CientIA**            | Soluções de IA para análises científicas           | [🔗 Saiba mais](#)        |
-| **SISTEC**             | Sistema integrado para gestão de dados             | [🔗 Saiba mais](#)        |
 
----
 
 ## 🌟 **Por que escolher a Saucotech?**
 - ✅ Experiência consolidada em **ciência de dados** e **saúde digital**.
