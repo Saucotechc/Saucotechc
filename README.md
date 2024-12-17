@@ -1,7 +1,5 @@
 # 🌐 **Saucotech** – Tecnologia | Ciência | Saúde
 
-![Logo da Saucotech](https://via.placeholder.com/150) <!-- Substitua pelo logo da empresa -->
-
 ## 🚀 **Sobre nós**
 A Saucotech é uma empresa inovadora que atua na interseção entre tecnologia, ciência e saúde. Fundada com o propósito de transformar ideias em soluções reais, buscamos desenvolver projetos que promovam avanços significativos e impactem positivamente a sociedade.
 
